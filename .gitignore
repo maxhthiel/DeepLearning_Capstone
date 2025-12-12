@@ -1,0 +1,14 @@
+# Datensätze ignorieren
+data/
+dataset/
+images/
+
+# Systemdateien ignorieren (Mac)
+.DS_Store
+
+# Python Cache ignorieren
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+dl/
